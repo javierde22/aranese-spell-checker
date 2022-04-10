@@ -1,0 +1,164 @@
+#==============================================================================================
+#                                  Aranese spelling checker
+#                                  Affix file and word list
+#==============================================================================================
+# Version 1.2 alfa
+#==============================================================================================
+#
+# Copyright (C) 2022 Javier Torres Fernández - www.occitans.com
+#
+#This program is free software: you can redistribute it and/or modify it under the terms of the
+#GNU General Public License as published by the Free Software Foundation, either version 3 of 
+#the License, or (at your option) any later version.
+#
+#This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+#without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#See the GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License along with this program.
+#If not, see <https://www.gnu.org/licenses/>.
+#==============================================================================================
+#PRONOMS
+#A
+#ac ec 'c at 't
+aquerò
+#aquò
+arren
+arrés
+açò
+#açò aute
+aute
+aqueri
+#res d'aquiu delà
+aquiu
+aqueth
+aqueri
+aqueres
+ac
+ec
+at
+au
+aguest
+aguesta
+aguesti
+aguestes
+#B
+#bèra causa
+bèra
+quauquarren
+#bèri uns
+bèri
+#bères ues
+bères
+#bèth un
+bèth
+#bèra ua
+#C
+causa
+cadun
+cadua
+caduni
+cadunes
+#D
+degun
+#E
+eth
+era/BZ
+#d'eri qu'eri
+eri/BZ
+eres/BZ
+#em, 'm
+em
+#et, 't
+et
+es
+#F
+#G
+#H
+#I
+#ieu
+#J
+jo
+#L
+la
+#le, l'
+le
+li
+lo
+#M
+mèn
+mia
+mèns
+mies
+#me, m', em, 'm
+me
+em
+#mos, mo'
+mos
+#N
+nosati
+nosates
+#nosautes
+#nosautas
+nòste
+nòsta
+nòsti
+nòstes
+#O
+òm
+#P
+#Q
+quauquarren
+quauquarrés
+quauquedegun
+#quauqui uns
+quauqui
+#quauques ues
+quauques
+quauqu'un
+quauqu'ua
+#qui que sigue
+qui
+que
+sigue
+#R
+#S
+#se, s'
+se
+sòn
+sòns
+sa
+sua
+sues
+#T
+ta
+tu
+tot
+#te, t', et, 't
+te
+et
+tu
+tòn
+tòns
+tua
+tues
+#U
+#V
+#vos, vo'
+vos
+#ve, v', 'vs
+vosati
+vosates
+vosautes
+#vosautas
+vòste
+vòsta
+vòsti
+vòstes
+vosté
+vostés
+vosati
+vosates
+#Z
+
+

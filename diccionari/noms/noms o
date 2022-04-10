@@ -1,0 +1,117 @@
+#==============================================================================================
+#                                  Aranese spelling checker
+#                                  Affix file and word list
+#==============================================================================================
+# Version 1.2 alfa
+#==============================================================================================
+#
+# Copyright (C) 2022 Javier Torres Fernández - www.occitans.com
+#
+#This program is free software: you can redistribute it and/or modify it under the terms of the
+#GNU General Public License as published by the Free Software Foundation, either version 3 of 
+#the License, or (at your option) any later version.
+#
+#This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+#without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#See the GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License along with this program.
+#If not, see <https://www.gnu.org/licenses/>.
+#==============================================================================================
+#NÒMS
+obrador/BZ
+obradors/BZ
+obratge/BZ
+obratges/BZ
+obrèr/BZ
+obrèra/BZ
+obrèrs/BZ
+obrères/BZ
+obtenguda/BZ
+obtengudes/BZ
+octobre/BZ
+occitan/BZ
+occitana/BZ
+occitans/BZ
+occitanes/BZ
+ocupat/BZ
+ocupada/BZ
+ocupadi/BZ
+ocupades/BZ
+ocupacion/BZ
+ocupacions/BZ
+oelha/BZ
+oelhes/BZ
+oelham/BZ
+oelhams/BZ
+ofici/BZ
+oficis/BZ
+ola/BZ
+oles/BZ
+oliva/BZ
+olives/BZ
+olièra/BZ
+olières/BZ
+ombra/BZ
+ombres/BZ
+ombrilha/BZ
+ombrilhes/BZ
+ombrilla/BZ
+ombrilles/BZ
+ombrèr/BZ
+ombrèrs/BZ
+omission/BZ
+omissions/BZ
+oncle/BZ
+oncles/BZ
+opinion/BZ
+opinions/BZ
+orde/BZ
+ordes/BZ
+orgulh/BZ
+orgulhs/BZ
+orgulhança/BZ
+orgulhances/BZ
+orison/BZ
+orisons/BZ
+oroneta/BZ
+oronetes/BZ
+##ors/BZ
+os/BZ
+osi/BZ
+ossardet/BZ
+ossardets/BZ
+ostalet/BZ
+ostalets/BZ
+ostalon/BZ
+ostalons/BZ
+ostau/BZ
+ostaus/BZ
+ostiu/BZ
+ostius/BZ
+ostiuatge/BZ
+ostiuatges/BZ
+osòn/BZ
+osòns/BZ
+osòne/BZ
+osònes/BZ
+otratge/BZ
+otratges/BZ
+oxigèn/BZ
+oxigèns/BZ
+òci/BZ
+òcis/BZ
+ògre/BZ
+ògres/BZ
+òli/BZ
+òlis/BZ
+òme/BZ
+òmes/BZ
+##òmi/BZ
+òr/BZ
+òrs/BZ
+òrla/BZ
+òrles/BZ
+##òs/BZ
+òsca/BZ
+òsques/BZ

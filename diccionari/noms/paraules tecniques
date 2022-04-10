@@ -1,0 +1,65 @@
+#==============================================================================================
+#                                  Aranese spelling checker
+#                                  Affix file and word list
+#==============================================================================================
+# Version 1.2 alfa
+#==============================================================================================
+#
+# Copyright (C) 2022 Javier Torres Fernández - www.occitans.com
+#
+#This program is free software: you can redistribute it and/or modify it under the terms of the
+#GNU General Public License as published by the Free Software Foundation, either version 3 of 
+#the License, or (at your option) any later version.
+#
+#This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+#without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#See the GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License along with this program.
+#If not, see <https://www.gnu.org/licenses/>.
+#==============================================================================================
+#NÒMS
+informatica/BZ
+informatiques/BZ
+pc
+pcs
+mp3
+ordinador
+ordinadors
+web
+webs
+plana
+navegador
+navegadors
+mètro
+digitau
+digitaus
+microorganisme
+microorganismes
+graminèa
+graminèes
+anfibi/BZ
+anfibis/BZ
+#acèr acero
+acèr/BZ
+acèrs/BZ
+#acerat
+sucursau
+sucursaus
+Wikipèdia
+idrocarbur/BZ
+idrocarburs/BZ
+nucleara
+#coet cohete
+coet
+coets
+executable/BZ
+executables/BZ
+plastic
+plastics
+legislatiu
+legislatius
+alcalin/BZ
+alcalina/BZ
+alcalins/BZ
+alcalines/BZ

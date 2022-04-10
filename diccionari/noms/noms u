@@ -1,0 +1,77 @@
+#==============================================================================================
+#                                  Aranese spelling checker
+#                                  Affix file and word list
+#==============================================================================================
+# Version 1.2 alfa
+#==============================================================================================
+#
+# Copyright (C) 2022 Javier Torres Fernández - www.occitans.com
+#
+#This program is free software: you can redistribute it and/or modify it under the terms of the
+#GNU General Public License as published by the Free Software Foundation, either version 3 of 
+#the License, or (at your option) any later version.
+#
+#This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+#without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#See the GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License along with this program.
+#If not, see <https://www.gnu.org/licenses/>.
+#==============================================================================================
+#NÒMS
+uart/BZ
+uarts/BZ
+uas/BZ
+uassi/BZ
+ucha/BZ
+uches/BZ
+uelh/BZ
+uelhs/BZ
+uelhada/BZ
+uelhades/BZ
+uelhèra/BZ
+uelhères/BZ
+uerdi/BZ
+uerdes/BZ
+ueu/BZ
+ueus/BZ
+uhon/BZ
+uhons/BZ
+uishina/BZ
+uishines/BZ
+##umi/BZ
+ungla/BZ
+ungles/BZ
+unglassada/BZ
+unglassades/BZ
+urpa/BZ
+urpes/BZ
+urpassada/BZ
+urpassades/BZ
+us/BZ
+usi/BZ
+usament/BZ
+usaments/BZ
+usança/BZ
+usances/BZ
+usatge/BZ
+usatges/BZ
+usatgèr/BZ
+usatgèrs/BZ
+usatgèra/BZ
+usatgères/BZ
+usatjant/BZ
+usatjanta/BZ
+usatjants/BZ
+usatjantes/BZ
+usclada/BZ
+usclades/BZ
+usina/BZ
+usines/BZ
+ustra/BZ
+ustres/BZ
+##ustri/BZ
+utís/BZ
+utíssi/BZ
+uvèrn/BZ
+uvèrns/BZ

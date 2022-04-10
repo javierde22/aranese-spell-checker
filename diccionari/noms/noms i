@@ -1,0 +1,90 @@
+#==============================================================================================
+#                                  Aranese spelling checker
+#                                  Affix file and word list
+#==============================================================================================
+# Version 1.2 alfa
+#==============================================================================================
+#
+# Copyright (C) 2022 Javier Torres Fernández - www.occitans.com
+#
+#This program is free software: you can redistribute it and/or modify it under the terms of the
+#GNU General Public License as published by the Free Software Foundation, either version 3 of 
+#the License, or (at your option) any later version.
+#
+#This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+#without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#See the GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License along with this program.
+#If not, see <https://www.gnu.org/licenses/>.
+#==============================================================================================
+#NÒMS
+idia/BZ
+idies/BZ
+idèa/BZ
+idèes/BZ
+idèia/BZ
+idèies/BZ
+ièrla/BZ
+ièrles/BZ
+ihon/BZ
+ihons/BZ
+important/BZ
+importanta/BZ
+importants/BZ
+importantes/BZ
+impremta/BZ
+impremtes/BZ
+imprevedença/BZ
+imprevedences/BZ
+imprimaria/BZ
+imprimaries/BZ
+imprimeria/BZ
+imprimeries/BZ
+in/BZ
+#in ??
+##in·hèrn/BZ
+incha/BZ
+inches/BZ
+indici/BZ
+indicis/BZ
+indigestion/BZ
+indigestions/BZ
+indèx/BZ
+indèxi/BZ
+injúria/BZ
+injúries/BZ
+innocent/BZ
+innocenta/BZ
+innocents/BZ
+innocentes/BZ
+innocéncia/BZ
+innocéncies/BZ
+innocentitge/BZ
+innocentitges/BZ
+insolentaria/BZ
+insolentaries/BZ
+insorreccion/BZ
+insorreccions/BZ
+insècte/BZ
+insèctes/BZ
+intestin/BZ
+intestins/BZ
+institucionau/BZ
+institucionaus/BZ
+##iraga/BZ
+iranja/BZ
+iranjes/BZ
+ireua/BZ
+ireues/BZ
+##ironda/BZ
+##irongleta/BZ
+irracionau/BZ
+irracionaus/BZ
+##isanha/BZ
+isard/BZ
+isards/BZ
+##iscla/BZ
+##isola/BZ
+iuèrn/BZ
+iuèrns/BZ
