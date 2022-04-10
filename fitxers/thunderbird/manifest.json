@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Aranese (Occitan) spelling checker",
+    "version": "1.3",
+    "description": "Aranese (Occitan) spelling checker - Diccionari ortogràfic d'Aranés",
+    "dictionaries": {
+	"oc-ES": "dictionaries/oc_ES.dic"
+    },
+    "applications": {
+	"gecko": {
+	    "id": "{48decb16-6779-4ac8-91a9-e10138156cb6}"
+	}
+    }
+
+}

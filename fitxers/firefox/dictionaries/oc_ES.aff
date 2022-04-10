@@ -1,0 +1,91 @@
+#==============================================================================================
+#                                  Aranese spelling checker
+#                                  Affix file and word list
+#==============================================================================================
+# Version 1.2 alfa
+#==============================================================================================
+#
+# Copyright (C) 2022 Javier Torres Fernández - www.occitans.com
+#
+#This program is free software: you can redistribute it and/or modify it under the terms of the
+#GNU General Public License as published by the Free Software Foundation, either version 3 of 
+#the License, or (at your option) any later version.
+#
+#This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+#without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#See the GNU General Public License for more details.
+#
+#You should have received a copy of the GNU General Public License along with this program.
+#If not, see <https://www.gnu.org/licenses/>.
+#==============================================================================================
+
+SET UTF-8
+
+TRY aàeèéiíïoòóuúücçdhnmrstpqvwxyz.
+
+WORDCHARS -·'
+#Prefixes entà verbs coma auer -> l'auia n'auia
+PFX A Y 5
+PFX A 0 l'
+PFX A 0 t'
+PFX A 0 n'
+PFX A 0 s'
+PFX A 0 m'
+
+#Prefixes entà verbs coma auer -> qu'auia o noms com qu'arren
+PFX B Y 1
+PFX B 0 qu'
+
+#Prefixes entà noms e pronòms coma s'aguestes
+PFX Y Y 1
+PFX Y 0 s'
+
+#Prefixes entà noms e pronòms coma d'Autes d'Arties
+PFX Z Y 1
+PFX Z 0 d'
+
+#Sufixes entà verbs coma cuedar-> cuedar-se'n
+SFX a Y 3
+SFX a 0 -se
+SFX a 0 -se'n
+SFX a 0 -se-lo
+
+#Sufixes entà vèrbs coma hicar-> hicatz-s'ac
+SFX b Y 3
+SFX b 0 -m'ac
+SFX b 0 -t'ac
+SFX b 0 -s'ac
+
+#Sufixes entà vèrbs coma minjar-> minjar-mos'ac
+SFX c Y 4
+SFX c 0 -mos
+SFX c 0 -mos'ac
+SFX c 0 -vos
+SFX c 0 -vos'ac
+
+#Sufixes entà verbs coma pujar-> pujatz-li'n
+SFX d Y 2
+SFX d 0 -li
+SFX d 0 -li'n
+
+#Sufixes entà hèr pluraus de nóms jutge jutges
+SFX 1 Y 1
+SFX 1 0 s
+
+#Sufixes entà hèr pluraus de nóms cama cames
+SFX 2 Y 1
+SFX 2 a es
+#SFX 2 à ès
+#SFX 2 á és
+
+#Sufixes entà hèr pluraus coma diuèrsa diuèrsi
+SFX 3 Y 1
+SFX 3 a i
+
+#Sufixes entà hèr femenins coma prumèr prumèra
+SFX 4 Y 1
+SFX 4 0 a
+
+#Sufixes entà hèr femenins coma prumèr prumèra
+SFX 5 Y 1
+SFX 5 e a
